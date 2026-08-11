@@ -1,7 +1,7 @@
 scriptnameEN = "SeroScript"
 scriptnameKR = "새로스크립트"
 
-scriptversion = "1.0"
+scriptversion = "1.1"
 
 def 강제종료(errorcode):
     print(f"\n프로그램이 강제 종료 됬습나다. 종료 품목 번호: {errorcode}")
